@@ -1,0 +1,34 @@
+{
+  "name": "kiss-ai-stack-chatbot-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^5.16.12",
+    "@mui/material": "^5.16.12",
+    "@radix-ui/react-scroll-area": "^1.2.2",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "kiss-ai-stack-client": "^0.1.0-a26",
+    "lucide-react": "^0.469.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-spring": "^9.7.5",
+    "typescript": "^5.7.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  }
+}
