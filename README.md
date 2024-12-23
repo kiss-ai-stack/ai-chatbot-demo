@@ -2,12 +2,13 @@
 
 ![demo.gif](./demo.gif)
 
-This demonstration showcases a robust and scalable chatbot solution built using React for the frontend and the KISS AI Stack for backend intelligence.
+This demonstration showcases solution built using React for the frontend and the KISS AI Stack for backend intelligence.
+
 ## Prerequisites
 
 *   **Node.js:** Version 20 or higher is required for frontend development.
 *   **Python:** Version 3.12 or higher is required for the backend server.
-*   **OpenAI API Key:** A valid OpenAI API key is necessary to access AI models (Consider private model or alternatives for sensitive data).
+*   **OpenAI API Key**
 
 ## Getting Started
 
@@ -147,7 +148,7 @@ This section details setting up the local development environment for the chatbo
 
 ### Documentation
 
-For detailed documentation, please visit [Client SDK docs](https://kiss-ai-stack.github.io/docs/ai-stack-js-sdk/) (Add actual link here)
+For detailed documentation, please visit [Client SDK docs](https://kiss-ai-stack.github.io/docs/ai-stack-js-sdk/)
 
 ## Security Considerations
 
