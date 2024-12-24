@@ -134,7 +134,7 @@ This section details setting up the local development environment for the chatbo
 
     async function run() {
         const client = new RestEvent("localhost:8080", false);
-        await client.authorizeStack(undefined, undefined, 'temporary'); // Implement proper Auth
+        await client.authorizeStack(undefined, undefined, 'temporary');
         await client.bootstrapStack("Hi");
         const result = await client.generateAnswer("What was world war 2 about?");
         await client.destroyStack("bye");
